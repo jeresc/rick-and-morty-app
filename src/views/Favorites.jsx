@@ -34,6 +34,7 @@ export default function Favorites() {
             species={favorite.species}
             gender={favorite.gender}
             origin={favorite.origin}
+            location={favorite.location}
             image={favorite.image}
           />
         );
